@@ -2,6 +2,4 @@ beautifulsoup4
 requests
 pandas
 plotly
-streamlit
-
-
+flask
